@@ -1,10 +1,11 @@
 $(document).ready(function(){
-  event.preventDefault();
+  // event.preventDefault();
 
-const flavorArray = ["Vanilla", "Chocolate", "Strawberry", "Salted Caramel", "Cookies & Cream"];
+const flavorArray = ["Chocolate with Peanut Butter", "Salted Caramel", "Cookies & Cream"];
 
 flavorArray.forEach(function(element){
-  $("#flavors").append(element + "is my favorite flavor of ice cream.")
+  // $("#flavors").append(element + "are my favorite flavors of ice cream.")
+  $("#flavors").append(element + ", ")
 })
 
 })
