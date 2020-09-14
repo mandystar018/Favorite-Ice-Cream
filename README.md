@@ -1,4 +1,4 @@
-# _Favorit Ice Cream_
+# _Favorite Ice Cream_
 
 #### _Basic webpage for favorite ice cream,, 08.17.2020_
 
